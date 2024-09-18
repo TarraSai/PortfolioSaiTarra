@@ -1,0 +1,28 @@
+.skill-badge {
+  font-size: 1.2rem; /* Increase the font size of badges */
+  padding: 0.5rem 1rem; /* Increase padding inside badges */
+  margin: 0.5rem; /* Increase margin between badges */
+  border: 2px solid #ffffff; /* Add more border around badges */
+  border-radius: 10px; /* Optional: Add border radius for a rounded effect */
+}
+
+.card-text {
+  
+  padding: 1.5rem; /* Increase padding inside the text block */
+  border-radius: 5px; /* Rounded corners for the border */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the badges horizontally */
+  gap: 0.75rem; /* Increase gap between badges */
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+.toppadding{
+    padding-top: 100px;
+}
